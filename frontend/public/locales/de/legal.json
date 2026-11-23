@@ -1,0 +1,34 @@
+{
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "section1Title": "1. Informationen, die wir sammeln",
+    "section1Body": "Wenn du ein Konto erstellst, sammeln wir deine E-Mail-Adresse, eine gehashte und gesalzene Version deines Passworts sowie alle Profilinformationen, die du angibst (Anzeigename, Avatarbild). Wenn du Beiträge erstellst, speichern wir den Inhalt und die Metadaten (Erstellungsdatum, Bearbeitungsverlauf), die mit deinem Konto verknüpft sind.",
+    "section2Title": "2. Wie wir deine Informationen verwenden",
+    "section2Body": "Wir verwenden deine Informationen, um dich zu authentifizieren, dein Profil und deine Beiträge anderen Nutzern anzuzeigen und zentrale Funktionen wie Freundeslisten und Aktivitätsstatistiken bereitzustellen. Wir verkaufen deine Informationen nicht an Dritte.",
+    "section3Title": "3. Datenspeicherung und Sicherheit",
+    "section3Body": "Passwörter werden mit gesalzenem Hashing gespeichert und niemals im Klartext gespeichert oder übertragen. Alle Verbindungen zwischen deinem Browser und unseren Servern sind über HTTPS verschlüsselt.",
+    "section4Title": "4. Deine Rechte",
+    "section4Body": "Du kannst deine Profilinformationen jederzeit in deinen Kontoeinstellungen aktualisieren oder löschen. Du kannst die Löschung deines Kontos und der zugehörigen Daten beantragen, indem du einen Administrator kontaktierst.",
+    "section5Title": "5. Cookies",
+    "section5Body": "Wir verwenden ein einziges essenzielles Cookie, um dich sicher angemeldet zu halten. Dieses Cookie ist für den Betrieb der Anwendung erforderlich und wird nicht für Werbe- oder Tracking-Zwecke verwendet.",
+    "section6Title": "6. Kontakt",
+    "section6Body": "Bei Fragen zu dieser Richtlinie oder deinen Daten wende dich an die Projektverantwortlichen über das im Footer der Anwendung angegebene Repository."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026",
+    "section1Title": "1. Annahme der Bedingungen",
+    "section1Body": "Indem du ein Konto erstellst und diese Anwendung nutzt, stimmst du diesen Nutzungsbedingungen zu. Wenn du nicht einverstanden bist, nutze die Anwendung bitte nicht.",
+    "section2Title": "2. Kontoverantwortung",
+    "section2Body": "Du bist für die Vertraulichkeit deines Passworts und alle Aktivitäten unter deinem Konto verantwortlich. Benachrichtige sofort einen Administrator, wenn du einen unbefugten Zugriff vermutest.",
+    "section3Title": "3. Zulässige Nutzung",
+    "section3Body": "Du stimmst zu, keine Inhalte zu posten, die illegal sind, andere belästigen oder deren Rechte verletzen. Administratoren können Inhalte entfernen oder Konten sperren, die gegen diese Bedingungen verstoßen.",
+    "section4Title": "4. Eigentum an Inhalten",
+    "section4Body": "Du behältst das Eigentum an den Inhalten, die du postest. Mit dem Posten gewährst du der Anwendung die Erlaubnis, diese Inhalte anderen Nutzern im Rahmen der normalen Anwendungsfunktion anzuzeigen.",
+    "section5Title": "5. Verfügbarkeit des Dienstes",
+    "section5Body": "Diese Anwendung wird als akademisches Projekt \"wie besehen\" ohne Garantie für Verfügbarkeit oder kontinuierlichen Betrieb bereitgestellt.",
+    "section6Title": "6. Änderungen dieser Bedingungen",
+    "section6Body": "Diese Bedingungen können sich im Laufe der Weiterentwicklung der Anwendung ändern. Die weitere Nutzung der Anwendung nach Änderungen gilt als Zustimmung zu den aktualisierten Bedingungen."
+  }
+}

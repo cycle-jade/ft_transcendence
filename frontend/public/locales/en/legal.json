@@ -1,0 +1,34 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "section1Title": "1. Information We Collect",
+    "section1Body": "When you create an account, we collect your email address, a hashed and salted version of your password, and any profile information you choose to provide (display name, avatar image). When you create posts, we store the content and metadata (creation date, edit history) associated with your account.",
+    "section2Title": "2. How We Use Your Information",
+    "section2Body": "We use your information to authenticate you, display your profile and posts to other users, and provide core application features such as friends lists and activity analytics. We do not sell your information to third parties.",
+    "section3Title": "3. Data Storage and Security",
+    "section3Body": "Passwords are stored using salted hashing and are never stored or transmitted in plain text. All connections between your browser and our servers are encrypted using HTTPS.",
+    "section4Title": "4. Your Rights",
+    "section4Body": "You may update or delete your profile information at any time from your account settings. You may request deletion of your account and associated data by contacting an administrator.",
+    "section5Title": "5. Cookies",
+    "section5Body": "We use a single essential cookie to keep you signed in securely. This cookie is required for the application to function and is not used for advertising or tracking purposes.",
+    "section6Title": "6. Contact",
+    "section6Body": "For questions about this policy or your data, contact the project maintainers via the repository listed in the application footer."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "section1Title": "1. Acceptance of Terms",
+    "section1Body": "By creating an account and using this application, you agree to these Terms of Service. If you do not agree, please do not use the application.",
+    "section2Title": "2. Account Responsibilities",
+    "section2Body": "You are responsible for keeping your password confidential and for any activity that occurs under your account. Notify an administrator immediately if you suspect unauthorized access.",
+    "section3Title": "3. Acceptable Use",
+    "section3Body": "You agree not to post content that is illegal, harassing, or infringes on the rights of others. Administrators may remove content or suspend accounts that violate these terms.",
+    "section4Title": "4. Content Ownership",
+    "section4Body": "You retain ownership of the content you post. By posting, you grant the application permission to display that content to other users as part of normal application functionality.",
+    "section5Title": "5. Service Availability",
+    "section5Body": "This application is provided as an academic project on an \"as is\" basis without guarantees of uptime or availability.",
+    "section6Title": "6. Changes to These Terms",
+    "section6Body": "These terms may be updated as the application evolves. Continued use of the application after changes constitutes acceptance of the updated terms."
+  }
+}

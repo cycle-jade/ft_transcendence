@@ -1,0 +1,9 @@
+{
+  "title": "Channels",
+  "subtitle": "Anyone can view and post in any channel. Follow a channel to keep track of it.",
+  "createChannel": "Create channel",
+  "createModalTitle": "Create a channel",
+  "channelName": "Channel name",
+  "channelNamePlaceholder": "e.g. Gaming",
+  "postsCount": "{{count}} posts"
+}

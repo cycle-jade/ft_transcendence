@@ -1,0 +1,36 @@
+{
+  "appName": "FT_transcendence",
+  "nav": {
+    "feed": "Fil d'actualité",
+    "channels": "Canaux",
+    "people": "Personnes",
+    "profile": "Profil",
+    "admin": "Admin",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "create": "Créer",
+    "post": "Publier",
+    "follow": "Suivre",
+    "following": "Abonnements",
+    "remove": "Retirer",
+    "loading": "Chargement...",
+    "noPostsYet": "Aucune publication pour le moment.",
+    "unfollow": "Ne plus suivre",
+    "followers": "Abonnés"
+  },
+  "status": {
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "active": "actif",
+    "blocked": "bloqué",
+    "admin": "admin"
+  }
+}

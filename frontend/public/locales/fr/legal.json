@@ -1,0 +1,34 @@
+{
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : juin 2026",
+    "section1Title": "1. Informations que nous collectons",
+    "section1Body": "Lorsque vous créez un compte, nous collectons votre adresse e-mail, une version hachée et salée de votre mot de passe, ainsi que toute information de profil que vous choisissez de fournir (nom d'affichage, image d'avatar). Lorsque vous créez des publications, nous stockons le contenu et les métadonnées (date de création, historique des modifications) associés à votre compte.",
+    "section2Title": "2. Comment nous utilisons vos informations",
+    "section2Body": "Nous utilisons vos informations pour vous authentifier, afficher votre profil et vos publications aux autres utilisateurs, et fournir les fonctionnalités principales de l'application telles que les listes d'amis et les statistiques d'activité. Nous ne vendons pas vos informations à des tiers.",
+    "section3Title": "3. Stockage et sécurité des données",
+    "section3Body": "Les mots de passe sont stockés à l'aide d'un hachage salé et ne sont jamais stockés ou transmis en texte brut. Toutes les connexions entre votre navigateur et nos serveurs sont chiffrées via HTTPS.",
+    "section4Title": "4. Vos droits",
+    "section4Body": "Vous pouvez mettre à jour ou supprimer les informations de votre profil à tout moment depuis les paramètres de votre compte. Vous pouvez demander la suppression de votre compte et des données associées en contactant un administrateur.",
+    "section5Title": "5. Cookies",
+    "section5Body": "Nous utilisons un seul cookie essentiel pour vous maintenir connecté de manière sécurisée. Ce cookie est nécessaire au fonctionnement de l'application et n'est pas utilisé à des fins publicitaires ou de suivi.",
+    "section6Title": "6. Contact",
+    "section6Body": "Pour toute question concernant cette politique ou vos données, contactez les responsables du projet via le dépôt indiqué dans le pied de page de l'application."
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : juin 2026",
+    "section1Title": "1. Acceptation des conditions",
+    "section1Body": "En créant un compte et en utilisant cette application, vous acceptez ces Conditions d'utilisation. Si vous n'êtes pas d'accord, veuillez ne pas utiliser l'application.",
+    "section2Title": "2. Responsabilités du compte",
+    "section2Body": "Vous êtes responsable de la confidentialité de votre mot de passe et de toute activité effectuée sous votre compte. Avertissez immédiatement un administrateur si vous suspectez un accès non autorisé.",
+    "section3Title": "3. Utilisation acceptable",
+    "section3Body": "Vous acceptez de ne pas publier de contenu illégal, harcelant ou portant atteinte aux droits d'autrui. Les administrateurs peuvent supprimer du contenu ou suspendre des comptes qui violent ces conditions.",
+    "section4Title": "4. Propriété du contenu",
+    "section4Body": "Vous conservez la propriété du contenu que vous publiez. En publiant, vous accordez à l'application l'autorisation d'afficher ce contenu aux autres utilisateurs dans le cadre du fonctionnement normal de l'application.",
+    "section5Title": "5. Disponibilité du service",
+    "section5Body": "Cette application est fournie en tant que projet académique « en l'état », sans garantie de disponibilité ou de fonctionnement continu.",
+    "section6Title": "6. Modifications de ces conditions",
+    "section6Body": "Ces conditions peuvent être mises à jour à mesure que l'application évolue. La poursuite de l'utilisation de l'application après ces modifications constitue une acceptation des conditions mises à jour."
+  }
+}

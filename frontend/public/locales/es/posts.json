@@ -1,0 +1,9 @@
+{
+  "feedTitle": "Feed",
+  "feedSubtitle": "Todas las publicaciones de todos los canales, las más recientes primero.",
+  "comments": "Comentarios",
+  "addComment": "Añadir un comentario...",
+  "deleteConfirmTitle": "¿Eliminar esta publicación?",
+  "deleteConfirmBody": "Esta acción no se puede deshacer.",
+  "editingAsAdmin": "Editando como admin — no es tu publicación."
+}

@@ -1,0 +1,9 @@
+{
+  "feedTitle": "Feed",
+  "feedSubtitle": "All posts from every channel, newest first.",
+  "comments": "Comments",
+  "addComment": "Add a comment...",
+  "deleteConfirmTitle": "Delete this post?",
+  "deleteConfirmBody": "This action cannot be undone.",
+  "editingAsAdmin": "Editing as admin — this isn't your post."
+}

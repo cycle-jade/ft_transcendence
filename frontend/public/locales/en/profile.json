@@ -1,0 +1,15 @@
+{
+  "title": "Profile",
+  "about": "About",
+  "bio": "Bio",
+  "skills": "Skills",
+  "avatarUrl": "Avatar URL",
+  "avatarPlaceholder": "https://example.com/avatar.jpg",
+  "activity": "Activity",
+  "posts": "posts",
+  "channels": "channels",
+  "memberSince": "member since",
+  "friends": "Friends",
+  "noFriendsYet": "No friends yet.",
+  "postsBy": "Posts by {{username}}"
+}

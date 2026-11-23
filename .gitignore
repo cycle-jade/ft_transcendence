@@ -1,0 +1,31 @@
+# Environment file with real credentials — never commit
+.env
+
+# Build products
+*.o
+*.a
+*.gch
+*.so
+*.class
+*.out
+a.out
+
+# SSL certificates — generated at runtime by nginx container
+nginx/certs/
+*.key
+*.pem
+*.crt
+
+# Local secrets and editor/OS files
+secrets/
+.vscode/
+.DS_Store
+
+# Docker build artifacts
+**/node_modules/
+**/.next/
+**/target/
+
+# IDE files
+.idea/
+*.iml

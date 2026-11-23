@@ -1,0 +1,8 @@
+{
+  "title": "Admin — Users",
+  "subtitle": "Only visible to admins. Promote, block.",
+  "makeAdmin": "Make admin",
+  "demote": "Demote",
+  "block": "Block",
+  "unblock": "Unblock"
+}

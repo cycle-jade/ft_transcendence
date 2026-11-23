@@ -1,0 +1,8 @@
+{
+  "title": "Admin — Benutzer",
+  "subtitle": "Nur für Admins sichtbar. Benutzer befördern oder sperren.",
+  "makeAdmin": "Zum Admin machen",
+  "demote": "Degradieren",
+  "block": "Sperren",
+  "unblock": "Entsperren"
+}

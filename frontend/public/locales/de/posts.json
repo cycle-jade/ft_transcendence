@@ -1,0 +1,9 @@
+{
+  "feedTitle": "Feed",
+  "feedSubtitle": "Alle Beiträge aus allen Kanälen, neueste zuerst.",
+  "comments": "Kommentare",
+  "addComment": "Kommentar hinzufügen...",
+  "deleteConfirmTitle": "Diesen Beitrag löschen?",
+  "deleteConfirmBody": "Diese Aktion kann nicht rückgängig gemacht werden.",
+  "editingAsAdmin": "Bearbeitung als Admin — das ist nicht dein Beitrag."
+}

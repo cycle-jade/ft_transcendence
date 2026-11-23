@@ -1,0 +1,8 @@
+{
+  "title": "Admin — Utilisateurs",
+  "subtitle": "Visible uniquement par les admins. Promouvoir, bloquer.",
+  "makeAdmin": "Nommer admin",
+  "demote": "Rétrograder",
+  "block": "Bloquer",
+  "unblock": "Débloquer"
+}

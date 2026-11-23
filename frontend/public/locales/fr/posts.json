@@ -1,0 +1,9 @@
+{
+  "feedTitle": "Fil d'actualité",
+  "feedSubtitle": "Toutes les publications de tous les canaux, les plus récentes en premier.",
+  "comments": "Commentaires",
+  "addComment": "Ajouter un commentaire...",
+  "deleteConfirmTitle": "Supprimer cette publication ?",
+  "deleteConfirmBody": "Cette action est irréversible.",
+  "editingAsAdmin": "Modification en tant qu'admin — ce n'est pas votre publication."
+}

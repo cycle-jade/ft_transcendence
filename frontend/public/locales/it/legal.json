@@ -1,0 +1,34 @@
+{
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: giugno 2026",
+    "section1Title": "1. Informazioni che raccogliamo",
+    "section1Body": "Quando crei un account, raccogliamo il tuo indirizzo e-mail, una versione hashata e salata della tua password e qualsiasi informazione del profilo che scegli di fornire (nome visualizzato, immagine dell'avatar). Quando crei dei post, memorizziamo il contenuto e i metadati (data di creazione, cronologia delle modifiche) associati al tuo account.",
+    "section2Title": "2. Come utilizziamo le tue informazioni",
+    "section2Body": "Utilizziamo le tue informazioni per autenticarti, mostrare il tuo profilo e i tuoi post agli altri utenti e fornire le funzionalità principali dell'applicazione come le liste di amici e le statistiche di attività. Non vendiamo le tue informazioni a terzi.",
+    "section3Title": "3. Archiviazione e sicurezza dei dati",
+    "section3Body": "Le password vengono archiviate tramite hashing con salt e non vengono mai memorizzate o trasmesse in chiaro. Tutte le connessioni tra il tuo browser e i nostri server sono crittografate tramite HTTPS.",
+    "section4Title": "4. I tuoi diritti",
+    "section4Body": "Puoi aggiornare o eliminare le informazioni del tuo profilo in qualsiasi momento dalle impostazioni del tuo account. Puoi richiedere l'eliminazione del tuo account e dei dati associati contattando un amministratore.",
+    "section5Title": "5. Cookie",
+    "section5Body": "Utilizziamo un unico cookie essenziale per mantenerti connesso in modo sicuro. Questo cookie è necessario per il funzionamento dell'applicazione e non viene utilizzato per scopi pubblicitari o di tracciamento.",
+    "section6Title": "6. Contatti",
+    "section6Body": "Per domande su questa informativa o sui tuoi dati, contatta i responsabili del progetto tramite il repository indicato nel piè di pagina dell'applicazione."
+  },
+  "terms": {
+    "title": "Termini di servizio",
+    "lastUpdated": "Ultimo aggiornamento: giugno 2026",
+    "section1Title": "1. Accettazione dei termini",
+    "section1Body": "Creando un account e utilizzando questa applicazione, accetti questi Termini di servizio. Se non sei d'accordo, ti preghiamo di non utilizzare l'applicazione.",
+    "section2Title": "2. Responsabilità dell'account",
+    "section2Body": "Sei responsabile della riservatezza della tua password e di qualsiasi attività svolta con il tuo account. Avvisa immediatamente un amministratore se sospetti un accesso non autorizzato.",
+    "section3Title": "3. Uso accettabile",
+    "section3Body": "Accetti di non pubblicare contenuti illegali, offensivi o che violino i diritti di altri. Gli amministratori possono rimuovere contenuti o sospendere account che violano questi termini.",
+    "section4Title": "4. Proprietà del contenuto",
+    "section4Body": "Mantieni la proprietà dei contenuti che pubblichi. Pubblicando, concedi all'applicazione il permesso di mostrare tale contenuto agli altri utenti come parte del normale funzionamento dell'applicazione.",
+    "section5Title": "5. Disponibilità del servizio",
+    "section5Body": "Questa applicazione è fornita come progetto accademico \"così com'è\", senza garanzie di disponibilità o funzionamento continuo.",
+    "section6Title": "6. Modifiche a questi termini",
+    "section6Body": "Questi termini possono essere aggiornati con l'evolversi dell'applicazione. Continuare a utilizzare l'applicazione dopo le modifiche costituisce accettazione dei termini aggiornati."
+  }
+}

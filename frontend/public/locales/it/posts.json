@@ -1,0 +1,9 @@
+{
+  "feedTitle": "Feed",
+  "feedSubtitle": "Tutti i post di tutti i canali, dal più recente.",
+  "comments": "Commenti",
+  "addComment": "Aggiungi un commento...",
+  "deleteConfirmTitle": "Eliminare questo post?",
+  "deleteConfirmBody": "Questa azione non può essere annullata.",
+  "editingAsAdmin": "Modifica come admin — non è il tuo post."
+}

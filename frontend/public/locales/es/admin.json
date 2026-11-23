@@ -1,0 +1,8 @@
+{
+  "title": "Admin — Usuarios",
+  "subtitle": "Solo visible para los admins. Promociona o bloquea usuarios.",
+  "makeAdmin": "Hacer admin",
+  "demote": "Degradar",
+  "block": "Bloquear",
+  "unblock": "Desbloquear"
+}

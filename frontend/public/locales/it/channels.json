@@ -1,0 +1,9 @@
+{
+  "title": "Canali",
+  "subtitle": "Chiunque può visualizzare e pubblicare in qualsiasi canale. Segui un canale per tenerlo d'occhio.",
+  "createChannel": "Crea canale",
+  "createModalTitle": "Crea un canale",
+  "channelName": "Nome del canale",
+  "channelNamePlaceholder": "es. Gaming",
+  "postsCount": "{{count}} post"
+}

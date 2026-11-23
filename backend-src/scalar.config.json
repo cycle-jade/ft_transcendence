@@ -1,0 +1,17 @@
+{
+  "$schema": "https://registry.scalar.com/@scalar/schemas/config",
+  "scalar": "2.0.0",
+  "info": {
+    "title": "Transcended API",
+    "description": "API documentation for the Transcended backend"
+  },
+  "navigation": {
+    "routes": {
+      "/": {
+        "title": "Transcended API",
+        "type": "openapi",
+        "filepath": "docs/api-docs.yaml"
+      }
+    }
+  }
+}
